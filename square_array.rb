@@ -5,5 +5,5 @@ def square_array(array)
     square = new_numbers ** 2
     sqr_array << sqaure
   end
-  sqr_array(new_numbers)
+  sqr_array
 end
